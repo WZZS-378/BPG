@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ed20bcd06c701424f8be2987d95800c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuMusic: {fileID: 8300000, guid: 9dd540a6cea146e448f1d8107814b5f7, type: 3}
+  - tutorialMusic: {fileID: 8300000, guid: ced13bbdacd3ddf4ebc5de21c18c4a59, type: 3}
+  - defaultMusic: {fileID: 8300000, guid: 5ad687cc30a9a5d4d8957b384f1fc481, type: 3}
+  - musicLv2: {fileID: 8300000, guid: 2328267fd2bf3114f9cad7bc7e867ae0, type: 3}
+  - musicLv3: {fileID: 8300000, guid: e0b442001c47065429b617795a23c372, type: 3}
+  - musicLv4: {fileID: 8300000, guid: d31792cd972c94b4e866ce6cd7f4e267, type: 3}
+  - musicLv5: {fileID: 8300000, guid: e62f0b14a30bdd246ba6b3cb0a142ec8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

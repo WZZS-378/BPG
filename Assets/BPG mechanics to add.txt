@@ -1,0 +1,6 @@
+BPG mechanics to add:
+- Spike Traps
+- Fireballs come from the side
+- Flashlight levels
+- Time trial levels
+- leaderboard
